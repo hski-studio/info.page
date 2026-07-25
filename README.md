@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>hski.studio — Diseño para redes que se nota</title>
+<title>hski.studio — Diseño, redes y multimedia</title>
 <style>
   :root{
     /* --- brand --- */
@@ -422,9 +422,9 @@
     <div class="sparkle s2" style="bottom:14%; left:2%;"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg></div>
 
     <div class="folder-inner">
-      <h1 class="hero-title">Promo especial para<span class="accent">Emprendedores</span></h1>
+      <h1 class="hero-title">¿Tu marca está<span class="accent">estancada?</span></h1>
       <p class="typed-line" id="typedLine"><span class="cursor">&nbsp;</span></p>
-      <p class="hero-sub">Diseñamos piezas gráficas y gestionamos redes para negocios y emprendimientos que quieren dejar de improvisar el feed.</p>
+      <p class="hero-sub">Soy Lara, diseñadora multimedial formada en la UNLP. Diseñemos juntas la cara de tu proyecto: identidad, piezas gráficas y gestión de redes.</p>
       <div class="hero-ctas">
         <a href="#fichero" class="btn btn-primary">Ver el fichero</a>
         <a href="#contacto" class="btn">Escribinos</a>
@@ -437,9 +437,9 @@
 
 <section id="fichero" class="reveal">
   <div class="section-head">
-    <span class="section-tag">Archivo 01 — Packs</span>
+    <span class="section-tag">Servicios y precios actuales</span>
     <h2>El <em>fichero</em></h2>
-    <p class="section-desc">Cada servicio, catalogado como corresponde. Arrastrá para ver el archivo completo.</p>
+    <p class="section-desc">Cuatro archivos, un criterio: elegí servicios sueltos o armamos un pack a medida. Arrastrá para ver el catálogo completo.</p>
   </div>
 
   <div class="fichero-wrap">
@@ -447,41 +447,42 @@
       <div class="ficha">
         <div class="tape"></div>
         <div class="ficha-code">FICHA N.º 01</div>
-        <h3>Pack de reels</h3>
-        <p>Básico 1 reel · Medio 2 reels · Premium 3 reels.</p>
-        <div class="price">desde $10.000</div>
+        <h3>Contenido y Redes</h3>
+        <p>Edición de reels y video, retoque de imagen, placas gráficas, copywriting, subida programada y gestión como community manager.</p>
+        <div class="price">desde $8.000</div>
       </div>
       <div class="ficha">
         <div class="clip"></div>
         <div class="ficha-code">FICHA N.º 02</div>
-        <h3>Reels + posteos</h3>
-        <p>Básico 1+1 · Medio 1+2 · Premium 2+2.</p>
-        <div class="price">desde $18.000</div>
+        <h3>Identidad Visual</h3>
+        <p>Logotipos y sus aplicaciones, kit de inicio de marca, rediseño de logo o una identidad completa de punta a punta.</p>
+        <div class="price">desde $56.000</div>
       </div>
       <div class="ficha">
         <div class="tape"></div>
         <div class="ficha-code">FICHA N.º 03</div>
-        <h3>Historias + posteos</h3>
-        <p>Básico 2+1 · Medio 4+2 · Premium 6+3.</p>
-        <div class="price">desde $16.000</div>
+        <h3>Papelería</h3>
+        <p>Tarjetas personales o de eventos, etiquetas y packaging, folletos y menús, infografías, posters y banners.</p>
+        <div class="price">desde $18.000</div>
       </div>
       <div class="ficha">
         <div class="clip"></div>
         <div class="ficha-code">FICHA N.º 04</div>
-        <h3>Pack completo</h3>
-        <p>Reel + posteo + historias, todo en uno. Incluye subida programada y copywriting como extras.</p>
-        <div class="price">desde $34.000</div>
+        <h3>Digital</h3>
+        <p>Prototipado y diseño de interfaces (UX/UI), landing pages, formularios web, infografías interactivas e ilustración.</p>
+        <div class="price">desde $35.000</div>
       </div>
     </div>
     <p class="fichero-hint">← desliza para ver el archivo completo →</p>
   </div>
+  <p class="section-desc" style="margin-top:1.4rem; font-size:0.88rem;">* Los packs semanales y mensuales de reels, historias y posteos se arman a medida — escribime para cotizar el tuyo.</p>
 </section>
 
 <section class="reveal">
   <div class="section-head">
     <span class="section-tag">Archivo 02 — Destinatarios</span>
     <h2>¿Para <em>quién</em> es esto?</h2>
-    <p class="section-desc">Si tu feed te da un poco de vergüenza, seguí leyendo.</p>
+    <p class="section-desc">Servicios sueltos o packs a medida: elegís vos por dónde empezamos.</p>
   </div>
   <div class="chips">
     <span class="chip">Emprendedores primerizos</span>
@@ -533,7 +534,7 @@
 
 <section id="contacto" class="cta reveal">
   <div class="cta-folder">
-    <div class="cta-eyebrow">¡Aprovechá esta oferta!</div>
+    <div class="cta-eyebrow">¿Lista para el siguiente nivel?</div>
     <svg class="megaphone" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M4 26L34 10V54L4 38V26Z" fill="var(--ink)"/>
       <rect x="34" y="24" width="8" height="16" fill="var(--ink)"/>
@@ -543,17 +544,17 @@
     <h2 style="color:var(--ink);">¿Hacemos que tu feed diga algo?</h2>
 
     <div class="cta-note">
-      <p>Tu marca se merece verse así de bien. ¡Arrancamos cuando quieras!</p>
-      <a href="mailto:hola@hski.studio" class="dm btn-stamp" id="stampBtn">mandame un dm</a>
+      <p>Charlemos de tus objetivos y armemos una propuesta a medida para tu marca.</p>
+      <a href="mailto:horianskilara@gmail.com" class="dm btn-stamp" id="stampBtn">mandame un mensaje y arrancamos</a>
     </div>
   </div>
 
   <footer>
-    <span>hski.studio © 2026 — Todos los derechos catalogados</span>
+    <span>hski.studio © 2026 — diseño · redes · multimedia</span>
     <div class="social-links">
-      <a href="#" aria-label="Instagram">Instagram</a>
-      <a href="#" aria-label="Behance">Behance</a>
-      <a href="#" aria-label="WhatsApp">WhatsApp</a>
+      <a href="https://www.instagram.com/hski.studio" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.behance.net/horianski" target="_blank" rel="noopener">Behance</a>
+      <a href="https://wa.me/5491122475964" target="_blank" rel="noopener">WhatsApp</a>
     </div>
   </footer>
 </section>
@@ -563,7 +564,7 @@
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
   var typedEl = document.getElementById('typedLine');
-  var text = "Diseñamos lo que tu marca todavía no sabe que necesita.";
+  var text = "Diseñemos juntas la cara de tu proyecto.";
   if(reduceMotion){
     typedEl.textContent = text;
   } else {
